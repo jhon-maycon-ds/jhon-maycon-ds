@@ -1,6 +1,6 @@
 
 ### Olá!👋
-### Bem vindo(a) ao meu mundo de Data Science! 📊
+### Sejam muito bem-vindos ao meu mundo de Data Science! 📊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-santos-096535194/)
 
